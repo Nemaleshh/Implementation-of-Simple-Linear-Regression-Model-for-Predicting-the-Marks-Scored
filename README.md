@@ -80,8 +80,14 @@ plt.show()
 
 ```
 ## Output:
-
+# Training data
 ![output](image.png)
+# Testing data
+![alt text](image3.png)
+# Predicted
 ![alt text](image2.png)
+# Error
+![alt text](image4.png)
+
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
